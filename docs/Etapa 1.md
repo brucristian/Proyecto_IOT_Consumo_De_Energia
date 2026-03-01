@@ -7,7 +7,7 @@
 
 **1.2. Montaje Físico en Protoboard**
 
-[Esquema del Circuito](images/Diseño_De_Placa.jpg)
+[Esquema del Circuito](images/Diseño_De_Placa.jpeg)
 
 **Detalles de la implementación:**
 
