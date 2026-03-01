@@ -7,7 +7,7 @@
 
 **1.2. Montaje Físico en Protoboard**
 
-<img src="images/Diseño_De_Placa.jpeg" width="600">
+<img src="images/Diseño_Fisico.jpeg" width="600">
 
 **Detalles de la implementación:**
 
