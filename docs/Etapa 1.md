@@ -6,7 +6,7 @@
 
 **1.2. Montaje Físico en Protoboard**
 
-_Inserta aquí la foto de tu Protoboard real con el teclado de fondo._
+
 
 **Detalles de la implementación:**
 
