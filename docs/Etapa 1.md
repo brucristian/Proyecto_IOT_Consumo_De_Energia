@@ -1,12 +1,13 @@
 **Etapa 1: Diseño, Montaje y Pruebas de Conexión**
 
 - 1.  **Esquema del Circuito**
+[Esquema del Circuito](docs/images/CircuitoInicial.jpg)
 
 **Descripción técnica:** El circuito utiliza un divisor de tensión con un offset de **1.65V** (mediante resistencias de 10k y un capacitor de 10uF). Esto es fundamental para que el ADC del ESP32 pueda procesar la onda senoidal de la corriente alterna, que tiene componentes negativos, desplazándola a un rango de voltaje positivo seguro.
 
 **1.2. Montaje Físico en Protoboard**
 
-
+[Esquema del Circuito](docs/images/Diseño_De_Placa)
 
 **Detalles de la implementación:**
 
