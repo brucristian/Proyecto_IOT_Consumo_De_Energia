@@ -5,7 +5,7 @@ int estadoSensor = 0;
 
 void setup() {
   // Iniciamos la comunicación serial a 9600 baudios
-  Serial.begin(9600);
+  Serial.begin(115200);
   
   // Configuramos el pin del sensor como entrada.
   // Usamos INPUT_PULLUP por seguridad, lo que asegura un estado ALTO (1)
